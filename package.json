@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cloudlight7/parcel-project-template.git"
+    "url": "git+https://github.com/cloudlight7/parcel-project-template"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Rom <cloudlight7@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cloudlight7/parcel-project-template/issues"
